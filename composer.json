@@ -1,0 +1,16 @@
+{
+    "name": "levend/quete_composer",
+    "description": "Projet quête composer",
+    "authors": [
+        {
+            "name": "levend",
+            "email": "lwdlwd95@gmail.com"
+        }
+    ],
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
